@@ -47,7 +47,7 @@ dependencies {
     // implementation 'com.github.prscX:photo-editor-android:master'
     // implementation 'com.github.prscX:photo-editor-android:0.0.6'
     // implementation 'com.github.vibin-palakkadan:photo-editor-android:v1.0.0'
-    implementation 'https://github.com/vibin-palakkadan/photo-editor-android'
+    implementation 'https://github.com/vibin-palakkadan/photo-editor-android:v1.0.0'
     implementation 'fr.avianey.com.viewpagerindicator:library:2.4.1@aar'
     implementation 'com.nineoldandroids:library:2.4.0'
     implementation 'com.android.support:design:28.0.0'
